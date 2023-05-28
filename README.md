@@ -12,3 +12,5 @@ generating numbers along with post-processing.
 Compiler:gcc (Rev6, Built by MSYS2 project) 13.1.0
 
 Entropy per 100000 8-bit samples: 7.998
+
+![alt text](https://github.com/Strzelba72/TrueRandomGenerator/blob/main/trng.png?raw=true)
